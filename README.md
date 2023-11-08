@@ -35,8 +35,7 @@
 - ✨Magic ✨
 
 ## Цель работы
-Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
-
+Установить необходимый софт - анаконду и юнити. 
 ## Задание 1
 ![screenshot](https://github.com/BashinskayaKsenia/DA-in-GameDev-lab1/blob/main/anacondaWorkshop1.png)
 ## Задание 2
