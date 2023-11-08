@@ -41,19 +41,10 @@
 ## Задание 2
 ![screenshot](https://github.com/BashinskayaKsenia/DA-in-GameDev-lab1/blob/main/unityWorkshop1.png).
 ## Задание 3
-
+Отчёт заполнен.
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+Были установлены необходимые софты - юнити и анаконда.  В них были написаны программы Hello world. Скриншоты данных программ прикреплены в соответсвующих заданиях.
 
 ## Powered by
 
