@@ -39,7 +39,7 @@
 ## Задание 1
 ![screenshot](https://github.com/BashinskayaKsenia/DA-in-GameDev-lab1/blob/main/anacondaWorkshop1.png)
 ## Задание 2
-
+![screenshot](https://github.com/BashinskayaKsenia/DA-in-GameDev-lab1/blob/main/unityWorkshop1.png).
 ## Задание 3
 
 ## Выводы
